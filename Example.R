@@ -35,8 +35,3 @@ for (alpha in test){
 if (require(Rgraphviz)) {
   plot(resMax, main = "")
 }
-
-temp_1 <- skeleton_mod(suffStat, indepTest = binCItest, labels=colnames(dataset),
-             alpha = alpha, verbose = FALSE)
-
-t(as(temp_1$pc_alg, "matrix"))
