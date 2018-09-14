@@ -15,4 +15,4 @@ We also include some examples of experiment with program generated data, codes t
 
 pcalg package (https://CRAN.R-project.org/package=pcalg) and graph package (https://www.bioconductor.org/packages/release/bioc/html/graph.html) are needed for running ACRR.
 
-Run 3 R scripts from "Mods" first, following steps are similar to codes in "Experiments."
+Run three R scripts from "Mods" first, following steps are similar to codes in "Experiments."
